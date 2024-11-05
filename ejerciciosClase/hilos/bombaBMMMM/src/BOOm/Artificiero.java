@@ -4,7 +4,7 @@ public class Artificiero extends Thread {
 
 	public void cuentaAtras()  {
 		System.out.println("El artificiero empieza a desactivar la bomba !!!!!");
-		int num = (int) (Math.random()*(10000 - 9500) +9500);
+		int num = (int) ((Math.random()*10500) +9500);
 			try {
 				Thread.sleep((long) num);
 
