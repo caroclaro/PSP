@@ -8,7 +8,7 @@ public class GenerarNum {
 		ArrayList<Integer> numerosImpares = new ArrayList<>();
 		
 		//PARA EL PROGRAMA DE FICHEROS SI QUE LO DEJARÍA PARA QUE SALIESE EN ESTOS , PERO SI NO EN EL PRIMERO DE LLAMAR PROYECTOS ME DA ERROR PORQUE LO 
-		//LEE CON EL readLine()) Y DA ERROR Y NO SE ARREGLAR ESO
+		//LEE CON EL readLine())
 			//System.out.println("Pintando la salida del programa de la generación de impares");  
 		
 		for (int i=0; i<10;) {
